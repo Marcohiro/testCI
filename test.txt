@@ -5,5 +5,8 @@ ceci est le test4
 ceci est le test5
 ceci est le test6
 ceci est le test7
+<<<<<<< HEAD
 ceci est le test7
 ceci est le test ouite
+=======
+>>>>>>> d5e230d1c80535820bcfe1ee0295bff441b4ead4
