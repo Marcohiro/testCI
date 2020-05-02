@@ -6,7 +6,14 @@ ceci est le test5
 ceci est le test6
 ceci est le test7
 <<<<<<< HEAD
+<<<<<<< HEAD
 ceci est le test7
 ceci est le test ouite
 =======
 >>>>>>> d5e230d1c80535820bcfe1ee0295bff441b4ead4
+=======
+ceci est le test7
+>>>>>>> 1ca25f56e1fa60e0bac62cec61692fc9d4e11b97
+
+
+GNNNN
