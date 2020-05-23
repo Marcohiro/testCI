@@ -1,5 +1,4 @@
 Ceci est un test
-<<<<<<< HEAD
 ceci est le test2
 ceci est le test3
 ceci est le test4
@@ -30,7 +29,4 @@ test 26
 test 27
 test 28
 test 29
-=======
-Ceci est un nouveau test
->>>>>>> nouveau test
-ttttttttttttttttt
+test 30
