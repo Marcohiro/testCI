@@ -5,23 +5,6 @@ ceci est le test4
 ceci est le test5
 ceci est le test6
 ceci est le test7
-JIFJSIFJI
-<<<<<<< HEAD
 ceci est le test7
 ceci est le test ouite
-GNNNN
-fedfsdfsfesf
-fdhsjkflsghfjklmlkjhgjklkjhgjk
-fgyhujdsikoqlmsfkjhysjklmùdfjhujikoslpfkhghdujk
-lroemfhkhjkvjfdgyvhujdiklsmbuguibhiufhihfiuhfuighdughfughfghfughfugh
-lorem ipsusm
-fsuhujikodlmudshj
-hffghfghdfghdfugd
-gdfhdfhfh
-dgfi
-fiopfdigifugoifdogdfoigudulfjfdhfdkldfhjg
-AmineAmina
-Reloux inutiles
-Uriel push truc qui compile pas
-Projet RUST sabotage soutenance
-N'appelle pas hein !
+Ceci est le test 9
